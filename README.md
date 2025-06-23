@@ -35,11 +35,12 @@ Este proyecto aplica el algoritmo **KMeans** (Scikit-learn) como técnica de **a
 
 ## 📸 Imágenes del resultado
 
-*(Agregar aquí las imágenes más bonitas del paisaje generado)*
+![paisaje1](https://github.com/user-attachments/assets/abdeb45a-c8b7-4350-9fee-5d331ee283ef)
+
 
 ## 📚 Créditos
 
 Proyecto desarrollado por **Betsabel Abigail Alvarado Choque**  
 Materia: COM300 - Inteligencia Artificial Aplicada  
-Docente: [Nombre del docente]  
+Docente: Pacheco Lora Carlos Walter  
 Año: 2025
